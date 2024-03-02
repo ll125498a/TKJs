@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         重写Function方法
-// @namespace    用于屏蔽网页内悬浮窗
+// @namespace    ad
 // @version      2024-03-02
-// @description  try to take over the world!
+// @description  用于屏蔽网页内悬浮窗
 // @author       You
 // @match *
 // @grant        none
